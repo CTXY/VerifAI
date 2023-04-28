@@ -6,7 +6,7 @@ This repository contains source code for paper "VerifAI: Verified Generative AI 
 ## Quick Start ##
 
 ## Dataset ##
-In our paper, we use tabular and textual data to construct a data lake.  The text files are in *./data/missing_value_imputation/wikipages.jsonl* . Also, you can get the tabular data from [this](https://drive.google.com/file/d/1-BPOYgC9sDIJ2c5GBj2qprisGuF__TDr/view?usp=share_link), and put them in the *./data/missing_value_imputation* and *./data/tabfact* folders respectively.
+In our paper, we use tabular and textual data to construct a data lake.  The text files are in *./data/missing_value_imputation/wikipages.jsonl* . Also, you can get the tables from [this](https://drive.google.com/file/d/1-BPOYgC9sDIJ2c5GBj2qprisGuF__TDr/view?usp=share_link), and put them in the *./data/missing_value_imputation* and *./data/tabfact* folders respectively.
 
 ## Running Code ##
 You can run index.ipynb, retrieve.ipynb, generate_by_chat.ipynb and verify.ipynb step by step.
