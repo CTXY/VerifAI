@@ -1,0 +1,845 @@
+-------------------------------
+pgTitle: yukon legislative assembly | secTitle: current members | attribute name value Doug_Graham_(Canadian_politician) attribute party value <mask> attribute riding value Porter_Creek_North
+Yukon Party
+Yukon Party
+-------------------------------
+pgTitle: list of members of the european parliament for malta, 2009–14 | secTitle: list | attribute name value Edward_Scicluna attribute national party value <mask> attribute ep group value Progressive_Alliance_of_Socialists_and_Democrats
+Labour Party (Malta)
+Labour Party
+-------------------------------
+pgTitle: list of members of the european parliament for malta, 2009–14 | secTitle: list | attribute name value David_Casa attribute national party value Nationalist_Party_(Malta) attribute ep group value <mask>
+European People's Party group
+European People's Party (EPP)
+-------------------------------
+pgTitle: list of members of the european parliament for malta, 2009–14 | secTitle: list | attribute name value Edward_Scicluna attribute national party value Labour_Party_(Malta) attribute ep group value <mask>
+Progressive Alliance of Socialists and Democrats
+S&D (Progressive Alliance of Socialists and Democrats)
+-------------------------------
+pgTitle: south donegal (uk parliament constituency) | secTitle: members of parliament | attribute election value 1886_United_Kingdom_general_election attribute member value Bernard Kelly attribute party value <mask>
+Irish Parliamentary Party
+Irish Parliamentary Party
+-------------------------------
+pgTitle: new democracy (greece) | secTitle: election results, greek parliamentary elections 1974–2012 | attribute year value 1974_Greek_legislative_election attribute party leader value <mask> attribute position in parliament value Government
+Konstantinos Karamanlis
+Andreas Papandreou
+-------------------------------
+pgTitle: united states gubernatorial elections, 2000 | secTitle: election results | attribute state value West_Virginia attribute incumbent value Cecil_H._Underwood attribute party value Republican_Party_(United_States) attribute opposing candidates value <mask>
+Bob Wise
+Democratic Party (United States)
+-------------------------------
+pgTitle: politics in luton | secTitle: luton north | attribute election value 1997_United_Kingdom_general_election attribute member value Kelvin_Hopkins attribute party value <mask>
+Labour Party (UK)
+Labour
+-------------------------------
+pgTitle: minister of citizenship and immigration | secTitle: ministers of citizenship and immigration (1994– ) | caption:  ministers of citizenship and immigration (1950–1966) | attribute name value Guy_Favreau attribute political party value <mask> attribute ministry value 19 ( Pearson )
+Liberal Party of Canada
+Liberal Party
+-------------------------------
+pgTitle: minister of citizenship and immigration | secTitle: ministers of citizenship and immigration (1994– ) | caption:  ministers of citizenship and immigration (1950–1966) | attribute name value Diane_Finley attribute political party value Conservative attribute ministry value <mask>
+28th Canadian Ministry
+Ministry of Citizenship and Immigration
+-------------------------------
+pgTitle: minister of citizenship and immigration | secTitle: ministers of citizenship and immigration (1994– ) | caption:  ministers of citizenship and immigration (1950–1966) | attribute name value Jason_Kenney attribute political party value Conservative attribute ministry value <mask>
+28th Canadian Ministry
+Ministry of Citizenship and Immigration
+-------------------------------
+pgTitle: list of current finance ministers | secTitle: states recognised by the united nations | attribute state value Ivory_Coast attribute finance minister value <mask> attribute party value Democratic_Party_of_Côte_d'Ivoire_–_African_Democratic_Rally
+Daniel Kablan Duncan
+Adama Koné
+-------------------------------
+pgTitle: list of current finance ministers | secTitle: states recognised by the united nations | attribute state value Malta attribute finance minister value <mask> attribute party value Labour_Party_(Malta)
+Edward Scicluna
+Edward Scicluna
+-------------------------------
+pgTitle: list of current finance ministers | secTitle: states recognised by the united nations | attribute state value Nigeria attribute finance minister value <mask> attribute party value People's_Democratic_Party_(Nigeria)
+Ngozi Okonjo-Iweala
+Zainab Ahmed
+-------------------------------
+pgTitle: list of current finance ministers | secTitle: states recognised by the united nations | attribute state value Poland attribute finance minister value <mask> attribute party value Civic_Platform
+Jacek Rostowski
+Tadeusz Kościński
+-------------------------------
+pgTitle: list of current finance ministers | secTitle: states recognised by the united nations | attribute state value Finland attribute finance minister value Jutta_Urpilainen attribute party value <mask>
+Social Democratic Party of Finland
+Social Democratic Party
+-------------------------------
+pgTitle: list of current finance ministers | secTitle: states recognised by the united nations | attribute state value Germany attribute finance minister value Wolfgang_Schäuble attribute party value <mask>
+Christian Democratic Union of Germany
+CDU (Christian Democratic Union)
+-------------------------------
+pgTitle: list of current finance ministers | secTitle: states recognised by the united nations | attribute state value Iceland attribute finance minister value Bjarni_Benediktsson_(born_1970) attribute party value <mask>
+Independence Party (Iceland)
+Independent Party
+-------------------------------
+pgTitle: list of current finance ministers | secTitle: states recognised by the united nations | attribute state value Pakistan attribute finance minister value Ishaq Dar attribute party value <mask>
+Pakistan Muslim League (N)
+Pakistan Muslim League-Nawaz (PML-N)
+-------------------------------
+pgTitle: list of current finance ministers | secTitle: states recognised by the united nations | attribute state value Russia attribute finance minister value Anton Siluanov attribute party value <mask>
+Independent politician
+United Russia
+-------------------------------
+pgTitle: united states gubernatorial elections, 1968 | secTitle: races | attribute state value Vermont attribute incumbent value <mask> attribute opposing candidates value Deane_C._Davis
+Philip H. Hoff
+Philip Hoff
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value <mask> attribute name value Desmond_Governey attribute party value Fine_Gael
+Carlow–Kilkenny (Dáil constituency)
+constituency name
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value <mask> attribute name value Tom_Nolan_(Irish_politician) attribute party value Fianna_Fáil
+Carlow–Kilkenny (Dáil constituency)
+Dublin County
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value <mask> attribute name value Thomas_J._Fitzpatrick_(Cavan_politician) attribute party value Fine_Gael
+Cavan (Dáil constituency)
+Cavan
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value <mask> attribute name value John_Wilson_(Irish_politician) attribute party value Fianna_Fáil
+Cavan (Dáil constituency)
+Dublin North Central
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value <mask> attribute name value Gene_Fitzgerald attribute party value Fianna_Fáil
+Cork Mid (Dáil constituency)
+Dublin Central
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value <mask> attribute name value Flor_Crowley attribute party value Fianna_Fáil
+Cork South-West (Dáil constituency)
+constituency name value Cork City North East
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value <mask> attribute name value Mark_Clinton attribute party value Fine_Gael
+Dublin County North (Dáil constituency)
+constituency name
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value <mask> attribute name value Hugh_Byrne_(Fine_Gael_politician) attribute party value Fine_Gael
+Dublin North-West (Dáil constituency)
+Dublin North Central
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value <mask> attribute name value Pádraig_Faulkner attribute party value Fianna_Fáil
+Louth (Dáil constituency)
+Constituency name
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value <mask> attribute name value Eugene_Gilhawley attribute party value Fine_Gael
+Sligo–Leitrim (Dáil constituency)
+constituency name
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value Carlow–Kilkenny_(Dáil_constituency) attribute name value Jim_Gibbons_(Irish_politician) attribute party value <mask>
+Fianna Fáil
+Fianna Fáil
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value Cavan_(Dáil_constituency) attribute name value Patrick_Smith_(politician) attribute party value <mask>
+Fianna Fáil
+Fianna Fáil
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value Clare_(Dáil_constituency) attribute name value Brendan_Daly_(politician) attribute party value <mask>
+Fianna Fáil
+Fianna Fáil
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value Clare–Galway_South_(Dáil_constituency) attribute name value Brigid_Hogan-O'Higgins attribute party value <mask>
+Fine Gael
+Fine Gael
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value Cork_South-West_(Dáil_constituency) attribute name value Flor_Crowley attribute party value <mask>
+Fianna Fáil
+Fianna Fáil
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value Cork_South-West_(Dáil_constituency) attribute name value Michael_Murphy_(Irish_politician) attribute party value <mask>
+Labour Party (Ireland)
+Fianna Fáil
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value Dublin_County_North_(Dáil_constituency) attribute name value Ray_Burke_(Irish_politician) attribute party value <mask>
+Fianna Fáil
+Fianna Fáil
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value Dublin_County_South_(Dáil_constituency) attribute name value Larry_McMahon attribute party value <mask>
+Fine Gael
+Fine Gael
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value Dublin_North-Central_(Dáil_constituency) attribute name value Michael_O'Leary_(politician) attribute party value <mask>
+Labour Party (Ireland)
+Fianna Fáil
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value Dublin_South-East_(Dáil_constituency) attribute name value Garret_FitzGerald attribute party value <mask>
+Fine Gael
+Fine Gael
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value Galway_North-East_(Dáil_constituency) attribute name value Michael_F._Kitt attribute party value <mask>
+Fianna Fáil
+Fianna Fáil
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value Kildare_(Dáil_constituency) attribute name value Patrick_Malone_(Irish_politician) attribute party value <mask>
+Fine Gael
+Fine Gael
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value Mayo_East_(Dáil_constituency) attribute name value Seán_Calleary attribute party value <mask>
+Fianna Fáil
+Fianna Fáil
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value Mayo_West_(Dáil_constituency) attribute name value Denis_Gallagher attribute party value <mask>
+Fianna Fáil
+Fianna Fáil
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value Monaghan_(Dáil_constituency) attribute name value Erskine_Hamilton_Childers attribute party value <mask>
+Fianna Fáil
+Fianna Fáil
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value Roscommon–Leitrim_(Dáil_constituency) attribute name value Patrick_J._Reynolds attribute party value <mask>
+Fine Gael
+Fianna Fáil
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value Tipperary_North_(Dáil_constituency) attribute name value John_Ryan_(Irish_politician) attribute party value <mask>
+Labour Party (Ireland)
+Fianna Fáil
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value Tipperary_South_(Dáil_constituency) attribute name value Seán_Treacy_(politician) attribute party value <mask>
+Labour Party (Ireland)
+Fianna Fáil
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value Waterford_(Dáil_constituency) attribute name value Edward_Collins_(Irish_politician) attribute party value <mask>
+Fine Gael
+Fianna Fáil
+-------------------------------
+pgTitle: members of the 20th dáil | secTitle: tds by constituency | caption:  members of the 20th dáil | attribute constituency value Wexford_(Dáil_constituency) attribute name value Brendan_Corish attribute party value <mask>
+Labour Party (Ireland)
+Labour Party
+-------------------------------
+pgTitle: charlottetown-parkdale | secTitle: members | caption:  members of the legislative assembly for charlottetown-parkdale | attribute assembly value 1996_Prince_Edward_Island_general_election attribute member value Elmer_MacFadyen attribute party value <mask>
+Progressive Conservative Party of Prince Edward Island
+Progressive Conservative
+-------------------------------
+pgTitle: communities and local government committee | secTitle: membership | attribute member value Clive_Betts attribute party value <mask> attribute constituency value Sheffield_South_East_(UK_Parliament_constituency)
+Labour Party (UK)
+Labour
+-------------------------------
+pgTitle: communities and local government committee | secTitle: membership | attribute member value Heather_Wheeler attribute party value <mask> attribute constituency value South_Derbyshire_(UK_Parliament_constituency)
+Conservative Party (UK)
+Conservative
+-------------------------------
+pgTitle: national union government (1945) | secTitle: forming the government | attribute name value Joseph_Bech attribute party value <mask> attribute office value Ministry_of_Foreign_Affairs_(Luxembourg)
+Christian Social People's Party
+Christian Social People's Party (CSV)
+-------------------------------
+pgTitle: national union government (1945) | secTitle: forming the government | attribute name value Eugène_Schaus attribute party value <mask> attribute office value Minister for the Interior and War Damage
+Democratic Party (Luxembourg)
+Christian Social People's Party
+-------------------------------
+pgTitle: government of oklahoma | secTitle: current offices | attribute office value Oklahoma_Labor_Commissioner attribute current officer value Mark_Costello_(Oklahoma_politician) attribute party value <mask>
+Republican Party (United States)
+Republican
+-------------------------------
+pgTitle: rotherham (uk parliament constituency) | secTitle: members of parliament | attribute election value 1923_United_Kingdom_general_election attribute member value Fred William Lindley attribute party value <mask>
+Labour Party (UK)
+Labour
+-------------------------------
+pgTitle: rotherham (uk parliament constituency) | secTitle: members of parliament | attribute election value 1976_Rotherham_by-election attribute member value Stanley_Crowther attribute party value <mask>
+Labour Party (UK)
+Labour
+-------------------------------
+pgTitle: rotherham (uk parliament constituency) | secTitle: members of parliament | attribute election value 2012_Rotherham_by-election attribute member value Sarah_Champion attribute party value <mask>
+Labour Party (UK)
+Labour Party
+-------------------------------
+pgTitle: kanduyi constituency | secTitle: members of parliament | attribute elections value 1997_Kenyan_general_election attribute mp value Athanas Wafula Wamunyinyi attribute party value <mask>
+Forum for the Restoration of Democracy – Kenya
+Ford-Kenya
+-------------------------------
+pgTitle: politics of oklahoma | secTitle: current executive branch | attribute office value <mask> attribute current officer value Gary_Jones_(Oklahoma_politician) attribute party value Republican
+Oklahoma State Auditor and Inspector
+office holder
+-------------------------------
+pgTitle: combined scottish universities (uk parliament constituency) | secTitle: members of parliament | attribute election value 1922_United_Kingdom_general_election attribute 1st member value Sir George Berry attribute 1st party value Unionist_Party_(Scotland) attribute 2nd member value Dugald McCoig Cowan attribute 2nd party value <mask> attribute 3rd member value Sir Henry Craik attribute 3rd party value Coalition_Coupon
+Liberal Party (UK)
+National Liberal Party
+-------------------------------
+pgTitle: members of the 5th seanad | secTitle: list of senators | attribute name value Andrew_Clarkin attribute panel value <mask> attribute party value Fianna_Fáil
+Administrative Panel
+Senator
+-------------------------------
+pgTitle: members of the 5th seanad | secTitle: list of senators | attribute name value Thomas_Ruane attribute panel value <mask> attribute party value Fianna_Fáil
+Administrative Panel
+Senator
+-------------------------------
+pgTitle: members of the 5th seanad | secTitle: list of senators | attribute name value William_O'Callaghan_(politician) attribute panel value <mask> attribute party value Fine_Gael
+Agricultural Panel
+Senator
+-------------------------------
+pgTitle: members of the 5th seanad | secTitle: list of senators | attribute name value William_Quirke attribute panel value <mask> attribute party value Fianna_Fáil
+Agricultural Panel
+Senator
+-------------------------------
+pgTitle: members of the 5th seanad | secTitle: list of senators | attribute name value Gerard_Sweetman attribute panel value Agricultural_Panel attribute party value <mask>
+Fine Gael
+Fine Gael
+-------------------------------
+pgTitle: members of the 5th seanad | secTitle: list of senators | attribute name value Seán_Campbell_(trade_unionist) attribute panel value Nominated_members_of_Seanad_Éireann attribute party value <mask>
+Labour Party (Ireland)
+Independent
+-------------------------------
+pgTitle: members of the 5th seanad | secTitle: list of senators | attribute name value Thomas_Foran attribute panel value Nominated_members_of_Seanad_Éireann attribute party value <mask>
+Labour Party (Ireland)
+Independent
+-------------------------------
+pgTitle: members of the 5th seanad | secTitle: list of senators | attribute name value William_Magennis attribute panel value Nominated_members_of_Seanad_Éireann attribute party value <mask>
+Independent politician
+independent
+-------------------------------
+pgTitle: members of the 4th seanad | secTitle: list of senators | attribute name value Richard_Walsh_(Irish_politician) attribute panel value <mask> attribute party value Fianna_Fáil
+Administrative Panel
+Senator
+-------------------------------
+pgTitle: members of the 4th seanad | secTitle: list of senators | attribute name value James_Parkinson_(Irish_politician) attribute panel value <mask> attribute party value Fine_Gael
+Cultural and Educational Panel
+Senator
+-------------------------------
+pgTitle: members of the 4th seanad | secTitle: list of senators | attribute name value Michael_Colgan_(politician) attribute panel value <mask> attribute party value Independent_politician
+Labour Panel
+Senator
+-------------------------------
+pgTitle: members of the 4th seanad | secTitle: list of senators | attribute name value Daniel_Corkery_(Irish_republican) attribute panel value Industrial_and_Commercial_Panel attribute party value <mask>
+Fianna Fáil
+Fianna Fáil
+-------------------------------
+pgTitle: members of the 4th seanad | secTitle: list of senators | attribute name value Michael_Tierney_(politician) attribute panel value National_University_of_Ireland_(constituency) attribute party value <mask>
+Fine Gael
+Fianna Fáil
+-------------------------------
+pgTitle: members of the 4th seanad | secTitle: list of senators | attribute name value Liam_Ó_Buachalla attribute panel value Nominated_members_of_Seanad_Éireann attribute party value <mask>
+Fianna Fáil
+independent
+-------------------------------
+pgTitle: members of the 2nd seanad | secTitle: list of senators | attribute name value Patrick_Baxter attribute panel value <mask> attribute party value Fine_Gael
+Agricultural Panel
+Senator
+-------------------------------
+pgTitle: members of the 2nd seanad | secTitle: list of senators | attribute name value Ross_McGillycuddy attribute panel value <mask> attribute party value Independent_politician
+Agricultural Panel
+Seanad Éireann is the upper house of the Oireachtas, which is the Irish legislature
+-------------------------------
+pgTitle: members of the 2nd seanad | secTitle: list of senators | attribute name value Pádraic_Ó_Máille attribute panel value <mask> attribute party value Fianna_Fáil
+Agricultural Panel
+Pádraic Ó Máille
+-------------------------------
+pgTitle: members of the 2nd seanad | secTitle: list of senators | attribute name value Cornelius_Kennedy attribute panel value <mask> attribute party value Fine_Gael
+Industrial and Commercial Panel
+Senator
+-------------------------------
+pgTitle: members of the 2nd seanad | secTitle: list of senators | attribute name value Seán_Milroy attribute panel value <mask> attribute party value Fine_Gael
+Labour Panel
+Seán Milroy is a member of the 2nd Seanad and belongs to Fine Gael
+-------------------------------
+pgTitle: members of the 2nd seanad | secTitle: list of senators | attribute name value Michael_Tierney_(politician) attribute panel value National_University_of_Ireland_(constituency) attribute party value <mask>
+Fine Gael
+Fianna Fáil
+-------------------------------
+pgTitle: members of the 2nd seanad | secTitle: list of senators | attribute name value William_Magennis attribute panel value Nominated_members_of_Seanad_Éireann attribute party value <mask>
+Independent politician
+independent
+-------------------------------
+pgTitle: earliest serving united states representative | secTitle: earliest serving representatives currently living | attribute representative value John_Dingell attribute state value <mask> attribute party value Democratic
+Michigan
+Michigan
+-------------------------------
+pgTitle: earliest serving united states representative | secTitle: earliest serving representatives currently living | attribute representative value Harry_G._Haskell_Jr. attribute state value <mask> attribute party value Republican
+Delaware
+New Jersey
+-------------------------------
+pgTitle: earliest serving united states representative | secTitle: earliest serving representatives currently living | attribute representative value Thomas_G._Morris attribute state value <mask> attribute party value Democratic
+New Mexico
+Maryland
+-------------------------------
+pgTitle: earliest serving united states representative | secTitle: earliest serving representatives currently living | attribute representative value Otis_G._Pike attribute state value <mask> attribute party value Democratic
+New York (state)
+New York
+-------------------------------
+pgTitle: earliest serving united states representative | secTitle: earliest serving representatives currently living | attribute representative value Fernand_St._Germain attribute state value <mask> attribute party value Democratic
+Rhode Island
+Rhode Island
+-------------------------------
+pgTitle: earliest serving united states representative | secTitle: earliest serving representatives currently living | attribute representative value Jim_Broyhill attribute state value <mask> attribute party value Republican
+North Carolina
+North Carolina
+-------------------------------
+pgTitle: bech-bodson ministry | secTitle: 20 january 1958 – 29 march 1958 | attribute name value Joseph_Bech attribute party value <mask> attribute office value List_of_Prime_Ministers_of_Luxembourg
+Christian Social People's Party
+Christian Social People's Party (CSV)
+-------------------------------
+pgTitle: dupong-schaus ministry | secTitle: 14 july 1948 – 3 july 1951 | attribute name value Robert_Schaffner attribute party value <mask> attribute office value List_of_Ministers_for_Public_Works_of_Luxembourg
+Democratic Party (Luxembourg)
+Christian Social People's Party (CSV)
+-------------------------------
+pgTitle: members of the 28th dáil | secTitle: tds by constituency | caption:  members of the 28th dáil | attribute constituency value <mask> attribute name value Síle_de_Valera attribute party value Fianna_Fáil
+Clare (Dáil constituency)
+constituency name value Kerry South
+-------------------------------
+pgTitle: members of the 28th dáil | secTitle: tds by constituency | caption:  members of the 28th dáil | attribute constituency value <mask> attribute name value Ned_O'Keeffe attribute party value Fianna_Fáil
+Cork East (Dáil constituency)
+constituency name
+-------------------------------
+pgTitle: members of the 28th dáil | secTitle: tds by constituency | caption:  members of the 28th dáil | attribute constituency value <mask> attribute name value David_Stanton attribute party value Fine_Gael
+Cork East (Dáil constituency)
+constituency name value Cork East
+-------------------------------
+pgTitle: members of the 28th dáil | secTitle: tds by constituency | caption:  members of the 28th dáil | attribute constituency value <mask> attribute name value Dan_Wallace_(politician) attribute party value Fianna_Fáil
+Cork North-Central (Dáil constituency)
+constituency name
+-------------------------------
+pgTitle: members of the 28th dáil | secTitle: tds by constituency | caption:  members of the 28th dáil | attribute constituency value <mask> attribute name value Donal_Moynihan attribute party value Fianna_Fáil
+Cork North-West (Dáil constituency)
+constituency name
+-------------------------------
+pgTitle: members of the 28th dáil | secTitle: tds by constituency | caption:  members of the 28th dáil | attribute constituency value <mask> attribute name value Deirdre_Clune attribute party value Fine_Gael
+Cork South-Central (Dáil constituency)
+Cork South Central
+-------------------------------
+pgTitle: members of the 28th dáil | secTitle: tds by constituency | caption:  members of the 28th dáil | attribute constituency value <mask> attribute name value Tony_Gregory attribute party value Independent_politician
+Dublin Central (Dáil constituency)
+Dublin Central
+-------------------------------
+pgTitle: members of the 28th dáil | secTitle: tds by constituency | caption:  members of the 28th dáil | attribute constituency value <mask> attribute name value Louis_Belton attribute party value Fine_Gael
+Longford–Roscommon (Dáil constituency)
+attribute constituency value Carlow-Kilkenny
+-------------------------------
+pgTitle: members of the 28th dáil | secTitle: tds by constituency | caption:  members of the 28th dáil | attribute constituency value <mask> attribute name value Michael_Bell_(Irish_politician) attribute party value Labour_Party_(Ireland)
+Louth (Dáil constituency)
+Dublin South-Central
+-------------------------------
+pgTitle: members of the 28th dáil | secTitle: tds by constituency | caption:  members of the 28th dáil | attribute constituency value Cork_North-Central_(Dáil_constituency) attribute name value Liam_Burke attribute party value <mask>
+Fine Gael
+Fianna Fáil
+-------------------------------
+pgTitle: members of the 12th dáil | secTitle: tds by constituency | caption:  members of the 12th dáil | attribute constituency value <mask> attribute name value Patrick_Finucane_(Irish_politician) attribute party value Clann_na_Talmhan
+Kerry North (Dáil constituency)
+Dublin County
+-------------------------------
+pgTitle: members of the 12th dáil | secTitle: tds by constituency | caption:  members of the 12th dáil | attribute constituency value <mask> attribute name value Oliver_J._Flanagan attribute party value Independent_politician
+Laois–Offaly (Dáil constituency)
+Laois-Offaly
+-------------------------------
+pgTitle: members of the 12th dáil | secTitle: tds by constituency | caption:  members of the 12th dáil | attribute constituency value <mask> attribute name value John_O'Leary_(Wexford_politician) attribute party value National_Labour_Party_(Ireland)
+Wexford (Dáil constituency)
+Wexford
+-------------------------------
+pgTitle: members of the 12th dáil | secTitle: tds by constituency | caption:  members of the 12th dáil | attribute constituency value <mask> attribute name value Patrick_Cogan attribute party value Clann_na_Talmhan
+Wicklow (Dáil constituency)
+Cork East
+-------------------------------
+pgTitle: members of the 12th dáil | secTitle: tds by constituency | caption:  members of the 12th dáil | attribute constituency value Donegal_East_(Dáil_constituency) attribute name value William_Sheldon_(Irish_politician) attribute party value <mask>
+Independent politician
+Fine Gael
+-------------------------------
+pgTitle: members of the 12th dáil | secTitle: tds by constituency | caption:  members of the 12th dáil | attribute constituency value Dublin_South_(Dáil_constituency) attribute name value Robert_Briscoe_(politician) attribute party value <mask>
+Fianna Fáil
+Fianna Fáil
+-------------------------------
+pgTitle: members of the 12th dáil | secTitle: tds by constituency | caption:  members of the 12th dáil | attribute constituency value Dublin_South_(Dáil_constituency) attribute name value John_McCann_(Irish_politician) attribute party value <mask>
+Fianna Fáil
+Fine Gael
+-------------------------------
+pgTitle: members of the 12th dáil | secTitle: tds by constituency | caption:  members of the 12th dáil | attribute constituency value Limerick_(Dáil_constituency) attribute name value Michael_Keyes attribute party value <mask>
+Labour Party (Ireland)
+Fianna Fáil
+-------------------------------
+pgTitle: members of the 12th dáil | secTitle: tds by constituency | caption:  members of the 12th dáil | attribute constituency value Mayo_North_(Dáil_constituency) attribute name value James_Kilroy_(politician) attribute party value <mask>
+Fianna Fáil
+Fine Gael
+-------------------------------
+pgTitle: members of the 12th dáil | secTitle: tds by constituency | caption:  members of the 12th dáil | attribute constituency value Mayo_South_(Dáil_constituency) attribute name value Richard_Walsh_(Irish_politician) attribute party value <mask>
+Fianna Fáil
+Fine Gael
+-------------------------------
+pgTitle: members of the 12th dáil | secTitle: tds by constituency | caption:  members of the 12th dáil | attribute constituency value Wexford_(Dáil_constituency) attribute name value Richard_Corish attribute party value <mask>
+Labour Party (Ireland)
+Labour Party
+-------------------------------
+pgTitle: list of freshman class members of the 109th united states congress | secTitle: senate | attribute state value List_of_United_States_Senators_from_Florida attribute senator value <mask> attribute party value Republican_Party_(United_States) attribute switched party value Bob_Graham attribute prior background value United_States_Secretary_of_Housing_and_Urban_Development attribute religion value Catholic_Church
+Mel Martínez
+Mel Martinez
+-------------------------------
+pgTitle: list of freshman class members of the 109th united states congress | secTitle: senate | attribute state value List_of_United_States_Senators_from_Georgia attribute senator value Johnny_Isakson attribute party value Republican_Party_(United_States) attribute switched party value <mask> attribute prior background value United_States_House_of_Representatives attribute religion value United_Methodist_Church
+Zell Miller
+No Switched Party value
+-------------------------------
+pgTitle: list of freshman class members of the 109th united states congress | secTitle: senate | attribute state value List_of_United_States_Senators_from_Florida attribute senator value Mel_Martínez attribute party value Republican_Party_(United_States) attribute switched party value Bob_Graham attribute prior background value <mask> attribute religion value Catholic_Church
+United States Secretary of Housing and Urban Development
+Governor of Florida
+-------------------------------
+pgTitle: list of freshman class members of the 109th united states congress | secTitle: senate | attribute state value List_of_United_States_Senators_from_North_Carolina attribute senator value Richard_Burr attribute party value Republican_Party_(United_States) attribute switched party value John_Edwards attribute prior background value <mask> attribute religion value Methodism
+United States House of Representatives
+Lawyer and politician
+-------------------------------
+pgTitle: united kingdom general election, 1966 | secTitle: televised declarations | attribute constituency constituency value Exeter_(UK_Parliament_constituency) attribute winning party 1964 winning party 1964 value Conservative_Party_(UK) attribute winning party 1966 winning party 1966 value <mask>
+Labour Party (UK)
+Labour Party (UK)
+-------------------------------
+pgTitle: manchester withington (uk parliament constituency) | secTitle: members of parliament | attribute election value 1931_United_Kingdom_general_election attribute member value Edward Fleming attribute party value <mask>
+Conservative Party (UK)
+Liberal Party
+-------------------------------
+pgTitle: list of members of the united states house of representatives who were born or died in 1978 | secTitle: deaths | attribute representative value Ralph_Metcalfe attribute state value <mask> attribute district(s) value Illinois's_1st_congressional_district attribute party value Democratic_Party_(United_States)
+List of United States Representatives from Illinois
+Illinois
+-------------------------------
+pgTitle: list of members of the united states house of representatives who were born or died in 1978 | secTitle: deaths | attribute representative value Goodloe_Byron attribute state value <mask> attribute district(s) value Maryland's_6th_congressional_district attribute party value Democratic_Party_(United_States)
+List of United States Representatives from Maryland
+Maryland
+-------------------------------
+pgTitle: list of members of the united states house of representatives who were born or died in 1978 | secTitle: deaths | attribute representative value James_I._Dolliver attribute state value <mask> attribute district(s) value Iowa's_6th_congressional_district attribute party value Republican_Party_(United_States)
+List of United States Representatives from Iowa
+Iowa
+-------------------------------
+pgTitle: list of members of the united states house of representatives who were born or died in 1978 | secTitle: deaths | attribute representative value Joseph_Montoya attribute state value List_of_United_States_Senators_from_New_Mexico attribute district(s) value <mask> attribute party value Democratic_Party_(United_States)
+New Mexico's 2nd congressional district
+3rd district
+-------------------------------
+pgTitle: list of members of the united states house of representatives who were born or died in 1978 | secTitle: deaths | attribute representative value Leo_F._Rayfiel attribute state value List_of_United_States_Representatives_from_New_York attribute district(s) value <mask> attribute party value Democratic_Party_(United_States)
+New York's 14th congressional district
+19th
+-------------------------------
+pgTitle: list of members of the united states house of representatives who were born or died in 1978 | secTitle: deaths | attribute representative value Edward_L._Sittler_Jr. attribute state value List_of_United_States_Representatives_from_Pennsylvania attribute district(s) value <mask> attribute party value Republican_Party_(United_States)
+Pennsylvania's 23rd congressional district
+16th district
+-------------------------------
+pgTitle: list of members of the united states house of representatives who were born or died in 1978 | secTitle: deaths | attribute representative value Lee_Metcalf attribute state value List_of_United_States_Representatives_from_Montana attribute district(s) value Montana's_1st_congressional_district attribute party value <mask>
+Democratic Party (United States)
+Democratic
+-------------------------------
+pgTitle: list of members of the united states house of representatives who were born or died in 1978 | secTitle: deaths | attribute representative value John_R._Pillion attribute state value List_of_United_States_Representatives_from_New_York attribute district(s) value New_York's_42nd_congressional_district attribute party value <mask>
+Republican Party (United States)
+Republican
+-------------------------------
+pgTitle: andrew fountaine | secTitle: elections contested | attribute date of election value 1976_Coventry_North_West_by-election attribute constituency value <mask> attribute party value NF
+Coventry North West (UK Parliament constituency)
+Coventry North West
+-------------------------------
+pgTitle: by-elections to the 19th canadian parliament | caption: see also | attribute by-election value Cartier_(electoral_district) attribute incumbent value <mask> attribute party value Liberal_Party_of_Canada attribute winner value Fred_Rose_(politician) attribute party value Labor-Progressive_Party attribute cause value Death
+Peter Bercovitch
+No incumbent value provided
+-------------------------------
+pgTitle: by-elections to the 19th canadian parliament | caption: see also | attribute by-election value Winnipeg_North_Centre attribute incumbent value J._S._Woodsworth attribute party value <mask> attribute winner value Stanley_Knowles attribute party value Co-operative_Commonwealth_Federation attribute cause value Death
+Co-operative Commonwealth Federation
+Co-operative Commonwealth Federation
+-------------------------------
+pgTitle: by-elections to the 19th canadian parliament | caption: see also | attribute by-election value Charlevoix—Saguenay attribute incumbent value Pierre-François_Casgrain attribute party value Liberal_Party_of_Canada attribute winner value <mask> attribute party value Independent_politician attribute cause value Quebec
+Frédéric Dorion
+Pierre-François Casgrain
+-------------------------------
+pgTitle: by-elections to the 19th canadian parliament | caption: see also | attribute by-election value Edmonton_East attribute incumbent value Frederick_Clayton_Casselman attribute party value Liberal_Party_of_Canada attribute winner value <mask> attribute party value Liberal_Party_of_Canada attribute cause value Death
+Cora Taylor Casselman
+Frederick Clayton Casselman
+-------------------------------
+pgTitle: by-elections to the 19th canadian parliament | caption: see also | attribute by-election value Stanstead_(electoral_district) attribute incumbent value Robert Greig Davidson attribute party value Liberal_Party_of_Canada attribute winner value Joseph-Armand_Choquette attribute party value <mask> attribute cause value Election declared void
+Bloc populaire
+Liberal Party of Canada
+-------------------------------
+pgTitle: by-elections to the 19th canadian parliament | caption: see also | attribute by-election value Charlevoix—Saguenay attribute incumbent value Pierre-François_Casgrain attribute party value Liberal_Party_of_Canada attribute winner value Frédéric_Dorion attribute party value <mask> attribute cause value Quebec
+Independent politician
+Conservative Party of Canada
+-------------------------------
+pgTitle: united states house of representatives elections, 2006 | secTitle: new york | attribute district value New_York's_23rd_congressional_district attribute incumbent value <mask> attribute first elected value 1992_United_States_House_of_Representatives_elections attribute candidates value John_M._McHugh
+John M. McHugh
+John M. McHugh
+-------------------------------
+pgTitle: united states house of representatives elections, 2006 | secTitle: new york | attribute district value New_York's_29th_congressional_district attribute incumbent value <mask> attribute first elected value 2004_United_States_House_of_Representatives_elections attribute candidates value Randy_Kuhl
+Randy Kuhl
+Not applicable or N/A (since the question is asking for the attribute "incumbent" which is not given in the prompt)
+-------------------------------
+pgTitle: united states house of representatives elections, 2006 | secTitle: new york | attribute district value New_York's_8th_congressional_district attribute incumbent value Jerry_Nadler attribute first elected value <mask> attribute candidates value Jerry_Nadler
+1992 United States House of Representatives elections
+1992
+-------------------------------
+pgTitle: united states house of representatives elections, 2006 | secTitle: new york | attribute district value New_York's_19th_congressional_district attribute incumbent value Sue_W._Kelly attribute first elected value <mask> attribute candidates value John_Hall_(New_York_politician)
+1994 United States House of Representatives elections
+2002
+-------------------------------
+pgTitle: united states house of representatives elections, 2006 | secTitle: new york | attribute district value New_York's_22nd_congressional_district attribute incumbent value Maurice_Hinchey attribute first elected value <mask> attribute candidates value Maurice_Hinchey
+1992 United States House of Representatives elections
+2002
+-------------------------------
+pgTitle: united states house of representatives elections, 2006 | secTitle: ohio | attribute district value Ohio's_6th_congressional_district attribute incumbent value <mask> attribute first elected value 1992_United_States_House_of_Representatives_elections attribute results value 2006_Ohio_gubernatorial_election attribute candidates value Charlie_Wilson_(Ohio_politician)
+Ted Strickland
+Charlie Wilson (Ohio politician)
+-------------------------------
+pgTitle: united states house of representatives elections, 2006 | secTitle: ohio | attribute district value Ohio's_11th_congressional_district attribute incumbent value <mask> attribute first elected value 1998_United_States_House_of_Representatives_elections attribute results value Re-elected attribute candidates value Stephanie_Tubbs_Jones
+Stephanie Tubbs Jones
+Stephanie Tubbs Jones
+-------------------------------
+pgTitle: united states house of representatives elections, 2006 | secTitle: ohio | attribute district value Ohio's_3rd_congressional_district attribute incumbent value Mike_Turner attribute first elected value <mask> attribute results value Re-elected attribute candidates value Mike_Turner
+2002 United States House of Representatives elections
+2002
+-------------------------------
+pgTitle: united states house of representatives elections, 2006 | secTitle: ohio | attribute district value Ohio's_5th_congressional_district attribute incumbent value Paul_Gillmor attribute first elected value <mask> attribute results value Re-elected attribute candidates value Paul_Gillmor
+1988 United States House of Representatives elections
+2006
+-------------------------------
+pgTitle: united states house of representatives elections, 2006 | secTitle: ohio | attribute district value Ohio's_4th_congressional_district attribute incumbent value Mike_Oxley attribute first elected value United_States_House_of_Representatives_elections,_1981 attribute results value Retired Republican hold attribute candidates value <mask>
+Jim Jordan (American politician)
+Democratic challenger(s)
+-------------------------------
+pgTitle: united states house of representatives elections, 1912 | secTitle: california | attribute district value California's_2nd_congressional_district attribute incumbent value John_E._Raker attribute first elected value <mask> attribute candidates value John_E._Raker
+1910 United States House of Representatives elections in California
+1910
+-------------------------------
+pgTitle: list of members of the canadian house of commons with military service (l) | attribute name value Séverin_Lachapelle attribute elected party value <mask> attribute constituency value Hochelaga_(electoral_district) attribute military service value Papal_States
+Conservative Party of Canada (1867–1942)
+Conservative
+-------------------------------
+pgTitle: list of members of the canadian house of commons with military service (l) | attribute name value Carl_Legault attribute elected party value <mask> attribute constituency value Nipissing_(electoral_district) attribute military service value Royal_Canadian_Air_Force
+Liberal Party of Canada
+Conservative
+-------------------------------
+pgTitle: united states house of representatives elections, 2000 | secTitle: california | attribute district value California's_5th_congressional_district attribute incumbent value <mask> attribute first elected value 1978_United_States_House_of_Representatives_elections attribute results value Re-elected attribute candidates value Bob_Matsui
+Bob Matsui
+Bob Matsui
+-------------------------------
+pgTitle: united states house of representatives elections, 2000 | secTitle: california | attribute district value California's_6th_congressional_district attribute incumbent value <mask> attribute first elected value 1992_United_States_House_of_Representatives_elections attribute results value Re-elected attribute candidates value Lynn_Woolsey
+Lynn Woolsey
+Lynn Woolsey
+-------------------------------
+pgTitle: united states house of representatives elections, 2000 | secTitle: california | attribute district value California's_16th_congressional_district attribute incumbent value <mask> attribute first elected value 1994_United_States_House_of_Representatives_elections attribute results value Re-elected attribute candidates value Zoe_Lofgren
+Zoe Lofgren
+Zoe Lofgren
+-------------------------------
+pgTitle: united states house of representatives elections, 2000 | secTitle: california | attribute district value California's_18th_congressional_district attribute incumbent value <mask> attribute first elected value United_States_House_of_Representatives_elections,_1989 attribute results value Re-elected attribute candidates value Gary_Condit
+Gary Condit
+Gary Condit
+-------------------------------
+pgTitle: united states house of representatives elections, 2000 | secTitle: california | attribute district value California's_52nd_congressional_district attribute incumbent value <mask> attribute first elected value 1980_United_States_House_of_Representatives_elections attribute results value Re-elected attribute candidates value Duncan_Hunter
+Duncan Hunter
+Duncan Hunter Sr
+-------------------------------
+pgTitle: united states house of representatives elections, 2000 | secTitle: california | attribute district value California's_12th_congressional_district attribute incumbent value Tom_Lantos attribute first elected value <mask> attribute results value Re-elected attribute candidates value Tom_Lantos
+1980 United States House of Representatives elections
+1990
+-------------------------------
+pgTitle: united states house of representatives elections, 2000 | secTitle: california | attribute district value California's_49th_congressional_district attribute incumbent value Brian_Bilbray attribute first elected value <mask> attribute results value Lost re-election Democratic gain attribute candidates value Susan_Davis_(politician)
+1994 United States House of Representatives elections
+2000
+-------------------------------
+pgTitle: united states house of representatives elections, 2000 | secTitle: connecticut | attribute district value Connecticut's_1st_congressional_district attribute incumbent value <mask> attribute first elected value 1998_United_States_House_of_Representatives_elections attribute candidates value John_B._Larson
+John B. Larson
+John B. Larson
+-------------------------------
+pgTitle: united states house of representatives elections, 1996 | secTitle: oregon | attribute district value Oregon's_2nd_congressional_district attribute incumbent value Wes_Cooley attribute first elected value 1994 attribute candidates value <mask>
+Robert Freeman Smith
+Peter DeFazio
+-------------------------------
+pgTitle: united states house of representatives elections, 1994 | secTitle: maryland | attribute district value Maryland's_3rd_congressional_district attribute incumbent value Ben_Cardin attribute first elected value <mask> attribute opponent value Ben_Cardin
+1986 United States House of Representatives elections
+1986
+-------------------------------
+pgTitle: united states house of representatives elections, 1984 | attribute district value Kentucky's_7th_congressional_district attribute incumbent value <mask> attribute first elected value 1948_United_States_House_of_Representatives_elections attribute candidates value Chris_Perkins_(politician)
+Carl D. Perkins
+John Y. Brown Jr
+-------------------------------
+pgTitle: united states house of representatives elections, 1984 | attribute district value Kentucky's_5th_congressional_district attribute incumbent value Hal_Rogers attribute first elected value <mask> attribute candidates value Hal_Rogers
+1980 United States House of Representatives elections
+1980
+-------------------------------
+pgTitle: united states house of representatives elections, 1984 | attribute district value Kentucky's_7th_congressional_district attribute incumbent value Carl_D._Perkins attribute first elected value 1948_United_States_House_of_Representatives_elections attribute candidates value <mask>
+Chris Perkins (politician)
+Harold Rogers
+-------------------------------
+pgTitle: eddisbury (uk parliament constituency) | secTitle: mps 1885–1950 | attribute election value 1943_Eddisbury_by-election attribute member value John_Loverseed attribute party value <mask>
+Common Wealth Party
+Conservative
+-------------------------------
+pgTitle: minnesota's 3rd congressional district | secTitle: list of representatives | attribute congress value 74th_United_States_Congress attribute representative value Ernest_Lundeen attribute party value <mask>
+Minnesota Farmer–Labor Party
+Farmer-Labor Party
+-------------------------------
+pgTitle: minnesota's 3rd congressional district | secTitle: list of representatives | attribute congress value 77th_United_States_Congress attribute representative value Richard_Pillsbury_Gale attribute party value <mask>
+Republican Party (United States)
+Republican
+-------------------------------
+pgTitle: members of the new south wales legislative assembly, 1991–1995 | caption: see also | attribute name value Ian_Armstrong_(politician) attribute party value National_Party_of_Australia attribute electorate value <mask>
+Electoral district of Lachlan
+Lachlan
+-------------------------------
+pgTitle: members of the new south wales legislative assembly, 1991–1995 | caption: see also | attribute name value Malcolm_Kerr_(politician) attribute party value Liberal attribute electorate value <mask>
+Electoral district of Cronulla
+Gordon
+-------------------------------
+pgTitle: 10th legislative assembly of quebec | secTitle: member list | attribute name value William_Alexander_Weir attribute party value <mask> attribute riding value Argenteuil_(provincial_electoral_district)
+Quebec Liberal Party
+Conservative
+-------------------------------
+pgTitle: 10th legislative assembly of quebec | secTitle: member list | attribute name value François_Gosselin attribute party value <mask> attribute riding value Iberville_(Quebec_provincial_electoral_district)
+Quebec Liberal Party
+Coalition Avenir Québec (CAQ)
+-------------------------------
+pgTitle: 10th legislative assembly of quebec | secTitle: member list | attribute name value Lomer_Gouin attribute party value <mask> attribute riding value Montréal_division_no._2
+Quebec Liberal Party
+Liberal
+-------------------------------
+pgTitle: 10th legislative assembly of quebec | secTitle: member list | attribute name value James_John_Edmund_Guerin attribute party value <mask> attribute riding value Montréal_division_no._6
+Quebec Liberal Party
+Liberal
+-------------------------------
+pgTitle: 10th legislative assembly of quebec | secTitle: member list | attribute name value Peter_Samuel_George_Mackenzie attribute party value <mask> attribute riding value Richmond_(Quebec_provincial_electoral_district)
+Quebec Liberal Party
+Liberal Party
+-------------------------------
+pgTitle: 10th legislative assembly of quebec | secTitle: member list | attribute name value Alfred_Girard attribute party value <mask> attribute riding value Rouville_(provincial_electoral_district)
+Quebec Liberal Party
+Parti Québécois
+-------------------------------
+pgTitle: list of members of the european parliament for greece, 1989–94 | secTitle: list | attribute name value Georgios_Anastassopoulos attribute national party value New_Democracy_(Greece) attribute ep group value <mask>
+European People's Party group
+European People's Party (EPP)
+-------------------------------
+pgTitle: electoral results for the division of mitchell | secTitle: members | attribute member value Alex_Hawke attribute party value <mask> attribute term value 2007_Australian_federal_election
+Liberal Party of Australia
+Liberal
+-------------------------------
+pgTitle: william v. roth, jr. | secTitle: almanac | caption:  election results | attribute year value 1966_United_States_House_of_Representatives_elections attribute office value <mask> attribute election value General_election attribute party value Republican_Party_(United_States) attribute opponent value Harris_McDowell attribute party value Democratic_Party_(United_States)
+United States House of Representatives
+United States House of Representatives
+-------------------------------
+pgTitle: william v. roth, jr. | secTitle: almanac | caption:  election results | attribute year value 1982_United_States_Senate_elections attribute office value <mask> attribute election value General_election attribute party value Republican_Party_(United_States) attribute opponent value David N. Levinson attribute party value Democratic_Party_(United_States)
+United States Senate
+U.S. Senate
+-------------------------------
+pgTitle: william v. roth, jr. | secTitle: almanac | caption:  election results | attribute year value 2000_United_States_Senate_elections attribute office value <mask> attribute election value General_election attribute party value Republican_Party_(United_States) attribute opponent value Tom_Carper attribute party value Democratic_Party_(United_States)
+United States Senate
+United States Senate
+-------------------------------
+pgTitle: william v. roth, jr. | secTitle: almanac | caption:  election results | attribute year value 1968_United_States_House_of_Representatives_elections attribute office value United_States_House_of_Representatives attribute election value <mask> attribute party value Republican_Party_(United_States) attribute opponent value Harris_McDowell attribute party value Democratic_Party_(United_States)
+General election
+1968
+-------------------------------
+pgTitle: william v. roth, jr. | secTitle: almanac | caption:  election results | attribute year value 1976_United_States_Senate_elections attribute office value United_States_Senate attribute election value General_election attribute party value <mask> attribute opponent value Thomas C. Maloney attribute party value Democratic_Party_(United_States)
+Republican Party (United States)
+Republican Party (United States)
+-------------------------------
+pgTitle: william v. roth, jr. | secTitle: almanac | caption:  election results | attribute year value 1976_United_States_Senate_elections attribute office value United_States_Senate attribute election value General_election attribute party value Republican_Party_(United_States) attribute opponent value Thomas C. Maloney attribute party value <mask>
+Democratic Party (United States)
+Democratic Party (United States)
+-------------------------------
+pgTitle: list of members of the united states house of representatives who died in 1988 | secTitle: deaths | attribute representative value Dan_Daniel_(politician) attribute state value <mask> attribute district(s) value Virginia's_5th_congressional_district attribute party value Democratic_Party_(United_States)
+List of United States Representatives from Virginia
+Virginia
+-------------------------------
+pgTitle: list of members of the united states house of representatives who died in 1988 | secTitle: deaths | attribute representative value Robert_R._Barry attribute state value <mask> attribute district(s) value New_York's_27th_congressional_district attribute party value Republican_Party_(United_States)
+List of United States Representatives from New York
+New York
+-------------------------------
+pgTitle: list of members of the united states house of representatives who died in 1988 | secTitle: deaths | attribute representative value Robert_McClory attribute state value <mask> attribute district(s) value Illinois's_12th_congressional_district attribute party value Republican_Party_(United_States)
+List of United States Representatives from Illinois
+Illinois
+-------------------------------
+pgTitle: list of members of the united states house of representatives who died in 1988 | secTitle: deaths | attribute representative value Thaddeus_J._Dulski attribute state value <mask> attribute district(s) value New_York's_41st_congressional_district attribute party value Democratic_Party_(United_States)
+List of United States Representatives from New York
+New York
+-------------------------------
+pgTitle: list of members of the united states house of representatives who died in 1988 | secTitle: deaths | attribute representative value James_Devereux attribute state value List_of_United_States_Representatives_from_Maryland attribute district(s) value <mask> attribute party value Republican_Party_(United_States)
+Maryland's 2nd congressional district
+The missing value for attribute district(s) is 1st
+-------------------------------
+pgTitle: list of members of the united states house of representatives who died in 1988 | secTitle: deaths | attribute representative value Walter_W._Bankhead attribute state value List_of_United_States_Representatives_from_Alabama attribute district(s) value <mask> attribute party value Democratic_Party_(United_States)
+Alabama's 1st congressional district
+7th
+-------------------------------
+pgTitle: list of members of the united states house of representatives who died in 1988 | secTitle: deaths | attribute representative value Lawrence_E._Imhoff attribute state value List_of_United_States_Representatives_from_Ohio attribute district(s) value Ohio's_18th_congressional_district attribute party value <mask>
+Democratic Party (United States)
+Republican
+-------------------------------
+pgTitle: list of members of the united states house of representatives who died in 1988 | secTitle: deaths | attribute representative value William_Flynt_Nichols attribute state value List_of_United_States_Representatives_from_Alabama attribute district(s) value Alabama's_4th_congressional_district attribute party value <mask>
+Democratic Party (United States)
+Democratic
+-------------------------------
+pgTitle: sunderland (uk parliament constituency) | secTitle: members of parliament | attribute election value 1865_United_Kingdom_general_election attribute 1st member value Henry Fenwick attribute 1st party value <mask> attribute 2nd member value James Hartley attribute 2nd party value Conservative_Party_(UK)
+Liberal Party (UK)
+Liberal Party
+-------------------------------
+pgTitle: washington territory's at-large congressional district | secTitle: list of delegates | attribute congress value 35th_United_States_Congress attribute delegate value <mask> attribute party value Democratic_Party_(United_States)
+Isaac Stevens
+Victoria Woodhull
+-------------------------------
+pgTitle: washington territory's at-large congressional district | secTitle: list of delegates | attribute congress value 34th_United_States_Congress attribute delegate value James_Patton_Anderson attribute party value <mask>
+Democratic Party (United States)
+Democratic
+-------------------------------
+pgTitle: washington territory's at-large congressional district | secTitle: list of delegates | attribute congress value 37th_United_States_Congress attribute delegate value William_H._Wallace attribute party value <mask>
+Republican Party (United States)
+Democratic
+-------------------------------
+pgTitle: washington territory's at-large congressional district | secTitle: list of delegates | attribute congress value 49th_United_States_Congress attribute delegate value Charles Stewart Voorhees attribute party value <mask>
+Democratic Party (United States)
+Republican
+-------------------------------
+pgTitle: united states house of representatives elections, 2008 | attribute district value Virginia's_1st_congressional_district attribute incumbent value <mask> attribute first elected value Special_elections_to_the_110th_United_States_Congress attribute candidates value Rob_Wittman
+Rob Wittman
+Rob Wittman
+-------------------------------
+pgTitle: united states house of representatives elections, 2008 | attribute district value Virginia's_2nd_congressional_district attribute incumbent value <mask> attribute first elected value 2004_United_States_House_of_Representatives_elections attribute candidates value Glenn_Nye
+Thelma Drake
+Randy Forbes
+-------------------------------
+pgTitle: alberta general election, 1967 | secTitle: members elected | attribute district value Calgary_Centre_(provincial_electoral_district) attribute member value <mask> attribute party value Social Credit
+Frederick C. Colborne
+Buck Crump
+-------------------------------
+pgTitle: alberta general election, 1967 | secTitle: members elected | attribute district value Calgary-East attribute member value <mask> attribute party value Social Credit
+Albert Ludwig
+Bert Hohol
+-------------------------------
+pgTitle: alberta general election, 1967 | secTitle: members elected | attribute district value Calgary-North attribute member value <mask> attribute party value Social Credit
+Robert A. Simpson
+Peter Lougheed
+-------------------------------
+pgTitle: alberta general election, 1967 | secTitle: members elected | attribute district value Edmonton-Norwood attribute member value <mask> attribute party value Social Credit
+William Tomyn
+E. Werstiuk
+-------------------------------
+pgTitle: alberta general election, 1967 | secTitle: members elected | attribute district value Strathcona_West attribute member value <mask> attribute party value Progressive Conservative
+Don Getty
+Lou Hyndman
+-------------------------------
+pgTitle: 56th new brunswick legislative assembly | secTitle: members | attribute name value Madeleine_Dubé attribute party value <mask> attribute riding value Edmundston-Madawaska_Centre
+Progressive Conservative Party of New Brunswick
+Progressive Conservative
+-------------------------------
+pgTitle: 56th new brunswick legislative assembly | secTitle: members | attribute name value Roly_MacIntyre attribute party value <mask> attribute riding value Saint_John_East
+New Brunswick Liberal Association
+Progressive Conservative Party
+-------------------------------
+pgTitle: 56th new brunswick legislative assembly | secTitle: members | attribute name value Bruce_Northrup attribute party value <mask> attribute riding value Sussex-Fundy-St._Martins
+Progressive Conservative Party of New Brunswick
+Progressive Conservative Party
+-------------------------------
+pgTitle: 56th new brunswick legislative assembly | secTitle: members | attribute name value Shawn_Graham attribute party value New_Brunswick_Liberal_Association attribute riding value <mask>
+Kent (provincial electoral district)
+It depends on the specific member being referred to. Without additional information, it is impossible to determine the value for attribute riding
+-------------------------------
+pgTitle: secretary of state for communities and local government | secTitle: secretary of state for communities and local government | caption:  minister of state for communities and local government | attribute name value David_Miliband attribute political party value <mask> attribute prime minister value Tony_Blair
+Labour Party (UK)
+Labour
+-------------------------------
+pgTitle: secretary of state for communities and local government | secTitle: secretary of state for communities and local government | caption:  minister of state for communities and local government | attribute name value Hazel_Blears attribute political party value <mask> attribute prime minister value Gordon_Brown
+Labour Party (UK)
+Labour
+-------------------------------
+pgTitle: united states senate elections, 1792 | secTitle: 1792 elections | attribute state value Virginia attribute incumbent value Richard_Henry_Lee attribute party value <mask> attribute candidates value John_Taylor_of_Caroline
+Anti-Administration party
+Anti-Administration
+-------------------------------
+pgTitle: list of living former members of the united states house of representatives | caption: see also | attribute representative value Paul_Trible attribute state value <mask> attribute district(s) value Virginia's_1st_congressional_district attribute party value Republican_Party_(United_States)
+List of United States Representatives from Virginia
+Virginia
+-------------------------------
+pgTitle: list of living former members of the united states house of representatives | caption: see also | attribute representative value Steve_Austria attribute state value List_of_United_States_Representatives_from_Ohio attribute district(s) value <mask> attribute party value Republican_Party_(United_States)
+Ohio's 7th congressional district
+11th district
+-------------------------------
+pgTitle: list of living former members of the united states house of representatives | caption: see also | attribute representative value Wendell_Bailey attribute state value List_of_United_States_Representatives_from_Missouri attribute district(s) value <mask> attribute party value Republican_Party_(United_States)
+Missouri's 8th congressional district
+8th district
+-------------------------------
+pgTitle: list of living former members of the united states house of representatives | caption: see also | attribute representative value Judy_Biggert attribute state value List_of_United_States_Representatives_from_Illinois attribute district(s) value <mask> attribute party value Republican_Party_(United_States)
+Illinois's 13th congressional district
+11th
+-------------------------------
+pgTitle: list of living former members of the united states house of representatives | caption: see also | attribute representative value Phil_Crane attribute state value List_of_United_States_Representatives_from_Illinois attribute district(s) value <mask> attribute party value Republican_Party_(United_States)
+Illinois's 13th congressional district
+16th district
+-------------------------------
