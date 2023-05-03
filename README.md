@@ -11,5 +11,4 @@ In our paper, we use tabular and textual data to construct a data lake.  The tex
 ## Running Code ##
 You can run **index.ipynb, retrieve.ipynb, generate_by_chat.ipynb** and **verify.ipynb** step by step.
 
-For the local deployable model **PASTA**, we recommand that you use the code and follow the instruction in this repository [https://github.com/ruc-datalab/PASTA].
-
+For the local deployable model **PASTA**, we recommand that you use the code and follow the instruction in [this repository](https://github.com/ruc-datalab/PASTA).
